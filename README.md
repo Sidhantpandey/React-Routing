@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 - # React Routing Learning Project
 
 ## Overview
-This project is a learning exercise to understand and implement React Router for navigation within a React application. It demonstrates the usage of different routing techniques, including nested routes, and protected routes.
+This project is a learning exercise to understand and implement React Router for navigation within a React application. It demonstrates the usage of different routing techniques, including nested routes and the usage of loader .
 
 ## Features
 - **React Router v6** for seamless navigation
@@ -26,7 +26,7 @@ This project is a learning exercise to understand and implement React Router for
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/react-routing-learning.git
+   git clone https://github.com/Sidhantpandey/react-routing-learning.git
    ```
 2. Navigate to the project directory:
    ```sh
