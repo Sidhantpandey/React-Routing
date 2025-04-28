@@ -42,7 +42,6 @@ This project is a learning exercise to understand and implement React Router for
    ```
 
 ## Usage
-- Navigate through the different pages using the Navbar.
 - Explore dynamic routes by adding parameters in the URL.
 
 ## Contributing
